@@ -34,7 +34,7 @@
 1.2 一些课程资料
 * 课程1：很有名的课程，你肯定知道，Andrew Ng在Stanford开的课，地址：[吴恩达的机器学习公开课](https://www.coursera.org/learn/machine-learning)。该课程的优点：简单易懂，适用于初学者，特别适合入门及数学能力一般的，不难。缺点也很明显，基本都是点到为止，讲解不够深入，只适用于初学。
 
-* 课程2：这个也是coursera上的课，讲师是国立台湾大学的[林轩田](https://www.coursera.org/instructor/htlin)，这个老师拿过三年的KDD Cup冠军，是机器学习界讲课不错的老师。他的课有两门，分别是[机器学习基石](https://www.coursera.org/course/ntumlone)（适合入门），[机器学习技法](https://www.coursera.org/course/ntumltwo)（适合提高）。这个老师讲课很有意思，特别是台湾普通话听着还不错。
+* 课程2：这个也是coursera上的课，讲师是国立台湾大学的[林轩田](https://www.coursera.org/instructor/htlin)，这个老师拿过三年的KDD Cup冠军，是机器学习界讲课不错的老师。他的课有两门，分别是机器学习基石（适合入门），机器学习技法（适合提高）。这个老师讲课很有意思，特别是台湾普通话听着还不错。（由于[平台升级的原因](http://weibo.com/ttarticle/p/show?id=2309403999644198792627)，林轩田老师的课程在Coursera上面已经撤下，课程视频和PPT可以在[这里](http://www.csie.ntu.edu.tw/~htlin/mooc/)找到，作业在[这里](https://www.csie.ntu.edu.tw/~htlin/course/ml15fall/)。）
 
 * 课程3：Coursera上非常著名的[神经网络](https://www.coursera.org/learn/neural-networks/home/welcome)课，讲师是多伦多大学的Geoffrey Hinton，深度学习的大牛!一定不要错过！
 
