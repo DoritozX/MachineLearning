@@ -1,4 +1,4 @@
-## 机器学习的一些资料
+﻿## 机器学习的一些资料
 ### 1. 机器学习与概率、统计学
 #### 1.1 公开课
 1. [斯坦福机器学习入门课程](https://www.coursera.org/learn/machine-learning)，讲师为Andrew Ng，适合数学基础一般的人，适合入门，但是学完会发现只是懂个大概，也就相当于什么都不懂。
@@ -7,7 +7,10 @@
 #### 1.2 推荐书目
 统计和概率是机器学习的基础，所以统计和概率一定要学好。
 
-1. **推荐必读**   统计学和机器学习结合的入门书：[统计学习方法](https://github.com/jindongwang/MachineLearning/blob/master/books/2012.%E6%9D%8E%E8%88%AA.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)，作者[李航](http://blog.sina.com.cn/u/2060750830)。这本书介绍了10个机器学习领域的代表性算法，讲的非常好，书本身也就200多页，很适合入门，强烈推荐。
+1. **推荐必读**   
+  - 统计学和机器学习结合的入门书：[统计学习方法](https://github.com/jindongwang/MachineLearning/blob/master/books/2012.%E6%9D%8E%E8%88%AA.%E7%BB%9F%E8%AE%A1%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.pdf)，作者[李航](http://blog.sina.com.cn/u/2060750830)。这本书介绍了10个机器学习领域的代表性算法，讲的非常好，书本身也就200多页，很适合入门，强烈推荐。
+  - 机器学习入门书：周志华老师的西瓜书[机器学习](https://github.com/allmachinelearning/MachineLearning/blob/master/books/Machine%20Learning/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0(%E5%91%A8%E5%BF%97%E5%8D%8E.pdf),语言简单易懂，一度登录亚马逊，京东计算机类畅销书榜首，很适合入门阅读，相比于李航老师的书，这本书更片算法和应用 （李航老师的书更篇数学），先读李航老师的书，再读这本，效果更佳。
+
 2. 机器学习理论方面：
 	- **推荐** 著名教材《Pattern Recognition》中文版为[《模式分类》第二版](https://github.com/jindongwang/MachineLearning/tree/master/books/Machine%20Learning/%E6%A8%A1%E5%BC%8F%E5%88%86%E7%B1%BB%EF%BC%88%E4%B8%AD%E6%96%87%E7%AC%AC%E4%BA%8C%E7%89%88%EF%BC%89%E4%B8%8E%E7%AD%94%E6%A1%88)，从数学的角度讲了机器学习的方方面面，非常不错。这本书好的地方是，书中所有的算法都有数学推导，讲的也很全面，作者的眼光很独到，习题和上机题也非常有挑战性；不好的地方就是，对现在流行的比如boosting和SVM等，书只是略讲了一下，可能需要额外再补充知识。不过即便如此，当我最近一个月看到这书时立刻就感叹为什么我当初上课的时候没有赶上这本书！
 
@@ -46,4 +49,3 @@ python、java以及matlab三种语言是目前比较流行的机器学习方面�
 ### 3. 人工智能
 * 快速入门：可以看我们当时上课的[ppt](https://github.com/jindongwang/MachineLearning/tree/master/books/AI/ppt)，大概对AI有一些了解（这个ppt有好多部分都是直接截图了李航的统计学习方法）。
 * 教材：著名的教材[人工智能：一种现代方法](https://github.com/jindongwang/MachineLearning/blob/master/books/AI/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%9A%E4%B8%80%E7%A7%8D%E7%8E%B0%E4%BB%A3%E6%96%B9%E6%B3%95%EF%BC%88%E7%AC%AC2%E7%89%88%EF%BC%89%E9%83%A8%E5%88%861.pdf)，很厚，可以翻看。
-
